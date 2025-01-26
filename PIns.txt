@@ -42,7 +42,7 @@ Connect to nearby manipulator power ports (All the power cables are named and le
 
 
 Data cables  (DIR,PWM)
-M1 - ENC_BLW1, BLW1 (two pin connector, GND of three pin connector ) PA7,PB0  ,GND of BLW1
+M1 - ENC_BLW1, BLW1 (two pin connector, GND of three pin connector ) PA7 (enc B),PB0 (enc A), GND of BLW1  //issue: B4 and A6 on the same code cause issues
 M2 - MRW1 - PB5 , PB4
 M3 - MLW1 - PA1,PA2
 M4 - BRW1 - PB15,PB14
